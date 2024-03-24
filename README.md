@@ -17,8 +17,8 @@ The Age Calculator is a web-based application that allows users to calculate the
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/age-calculator.git`
-2. Navigate to the project directory: `cd age-calculator`
+1. Clone the repository: `git clone https://github.com/MasterSINISTER/TechAlpha_AgeCalculator.git`
+2. Navigate to the project directory: `cd AgeC`
 
 ## Usage
 
@@ -41,4 +41,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or concerns, please feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or concerns, please feel free to contact me at [Here](mailto:hellolucifer007@gmail.com).
