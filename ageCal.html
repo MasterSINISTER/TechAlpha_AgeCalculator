@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="ageCalStyle.css" />
+    <title>Let's Calculate the Age</title>
+  </head>
+  <body>
+    <div id="heading-wrapper">
+      <div id="heading-container">
+        <h1>Age Calculator</h1>
+      </div>
+    </div>
+    <div id="form-container">
+      <form id="main-form">
+        <div>
+          <h3 class="label-form">Discover your Age</h3>
+          <input type="date" class="dateInput" />
+        </div>
+        <button onclick="calAge()" type="button" class="btnAge">Get My Age !</button>
+        <div id="result"></div>
+      </form>
+    </div>
+    <script src="ageCalJs.js"></script>
+  </body>
+</html>
